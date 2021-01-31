@@ -2,12 +2,16 @@
 #include <vector>
 #include <queue>
 using namespace std;
+
 int dirX[4] = { 1,-1,0,0 };
 int dirY[4] = { 0,0,1,-1 };
+
 int map[51][51];
 int cmap[51][51];
 bool check[51][51];
+
 int n, l, r, cnt_break, answer = 0;
+
 void input() {
 	cin >> n >> l >> r;
 	for (int i = 0; i < n; i++) {
@@ -18,7 +22,7 @@ void input() {
 	}
 }
 
-bool valid(int y, int x) {
+bool in_map(int y, int x) {
 	if (y >= 0 && x >= 0 && x < n && y < n)
 		return true;
 	else return false;
@@ -29,27 +33,31 @@ void bfs(int y, int x) {
 	queue<pair<int, int>> q;
 	q.push(make_pair(x, y));
 	int sum = 0;
-	bool no_move = true;
+	bool no_move = true;	// 국경 공유 할 나라
 	while (!q.empty()) {
 		int currentx = q.front().first;
 		int currenty = q.front().second;
 		int current_num = map[currenty][currentx];
 		q.pop();
+
 		v.push_back(make_pair(currentx, currenty));
 		sum += current_num;
+
 		for (int i = 0; i < 4; i++) {
 			int movex = currentx + dirX[i];
 			int movey = currenty + dirY[i];
 			int move_num = map[movey][movex];
+
 			int num = abs(current_num - move_num);
-			if (valid(movey, movex) && num >= l && num <= r && !check[movey][movex]) {
+
+			if (in_map(movey, movex) && num >= l && num <= r && !check[movey][movex]) {
 				check[movey][movex] = true;
 				q.push(make_pair(movex, movey));
-				no_move = false;
+				no_move = false;	// 국경 공유 할 나라 있음 
 			}
 		}
 	}
-	if (no_move) {
+	if (no_move) {	// 국경 공유한 나라가 없으면 cnt_break(전역변수)++
 		cnt_break++;
 	}
 	int num = sum / v.size();
@@ -69,6 +77,7 @@ void clear_map() {
 
 int main() {
 	input();
+
 	while (1) {
 		cnt_break = 0;
 		for (int i = 0; i < n; i++) {
@@ -79,8 +88,10 @@ int main() {
 				}
 			}
 		}
-		if (cnt_break == n*n)
+
+		if (cnt_break == n*n)	// 종료 조건
 			break;
+
 		clear_map();
 		answer++;
 	}
