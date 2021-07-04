@@ -2,121 +2,115 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-struct cctv{
-	int type, x, y;
-	cctv(int a, int b, int c):type(a), x(b), y(c){}
-};
+
 int map[8][8];
-int check[8][8];
-vector<cctv> v;
+int c_map[8][8];
+int n, m, answer = 10000;
+int dirX[4] = { 1,0,-1,0 };
+int dirY[4] = { 0,1,0,-1 };
+vector<pair<int, pair<int, int>>> cctv;
 vector<int> dir;
-int col_size, row_size, answer = 100;
-int dirX[4] = {1,0,-1,0};	//동남서북
-int dirY[4] = {0,1,0,-1};
-void input(){
-	cin >> col_size >> row_size;
-	for(int i = 0; i < col_size; i++){
-		for(int j = 0; j < row_size; j++){
-			cin >> map[i][j];
-			check[i][j] = map[i][j];
-			if(map[i][j] >= 1 && map[i][j] <= 5)
-				v.push_back(cctv(map[i][j], j, i));
+void clear_map() {
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < m; j++) {
+			c_map[i][j] = map[i][j];
 		}
 	}
-	dir = vector<int>(v.size());
 }
-void clear_map(){
-	for(int i = 0; i < col_size; i++)
-		for(int j = 0; j < row_size; j++)
-			check[i][j] = map[i][j];
-}
-void count_space(){
+int count_space() {
 	int cnt = 0;
-	for(int i = 0; i < col_size; i++){
-		for(int j = 0; j < row_size; j++){
-			if(check[i][j] == 0)
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < m; j++) {
+			if (c_map[i][j] == 0)
 				cnt++;
 		}
 	}
-	if(answer > cnt)
-		answer = cnt;
+	return cnt;
 }
-void check_map(int x, int y, int index){
-	int movex = x + dirX[index];
-	int movey = y + dirY[index];
-	while(movey>=0&&movex>=0&&movey<col_size&&movex<row_size&&map[movey][movex] !=6){
-		check[movey][movex]=1;
-		movex += dirX[index];
-		movey += dirY[index];
-	}
-}
-void cctv_start(int index){
-	int direction = dir[index];
-	int x = v[index].x;
-	int y = v[index].y;
-	int type = v[index].type;
-	if(type == 1){
-		check_map(x,y,direction);
-	}
-	else if(type == 2){
-		if(direction == 0){//동서
-			check_map(x,y,0);
-			check_map(x,y,2);
-		}
-		else{//남북
-			check_map(x,y,1);
-			check_map(x,y,3);
-		}
-	}
-	else if(type == 3){
-		check_map(x,y,(direction+1)%4);
-		check_map(x,y,direction);
-	}
-	else if(type == 4){
-		check_map(x,y,(direction+1)%4);
-		check_map(x,y,direction);
-		check_map(x,y,(direction+3)%4);
-	}
-	else{
-		check_map(x,y,0);
-		check_map(x,y,1);
-		check_map(x,y,2);
-		check_map(x,y,3);
+void activate(int direction, int y, int x) {
+	int movey = y + dirY[direction];
+	int movex = x + dirX[direction];
+	while (movey >= 0 && movex >= 0 && movey < n && movex < m && c_map[movey][movex] != 6) {
+		c_map[movey][movex] = 7;
+		movey += dirY[direction];
+		movex += dirX[direction];
 	}
 }
-void dfs(int cnt){
-	if(cnt == v.size()){
-		for(int i = 0; i < v.size(); i++){
-			cctv_start(i);
+void start_cctv(int idx) {
+	int direction = dir[idx];
+	int type = cctv[idx].first;
+	int y = cctv[idx].second.first;
+	int x = cctv[idx].second.second;
+	
+	switch (type) {
+	case 1:
+		activate(direction, y, x);
+		break;
+	case 2:
+		activate(direction, y, x);
+		activate((direction + 2) % 4, y, x);
+		break;
+	case 3:
+		activate(direction, y, x);
+		activate((direction + 1) % 4, y, x);
+		break;
+	case 4:
+		activate(direction, y, x);
+		activate((direction + 1) % 4, y, x);
+		activate((direction + 2) % 4, y, x);
+		break;
+	case 5:
+		for (int i = 0; i < 4; i++)
+			activate(i, y, x);
+		break;
+	}
+	
+}
+void dfs(int idx) {
+	if (idx == cctv.size()) {
+		for (int i = 0; i < cctv.size(); i++) {
+			start_cctv(i);
 		}
-		count_space();
+		int cnt = count_space();
+		answer = min(cnt, answer);
 		clear_map();
 		return;
 	}
-	int x = v[cnt].x;
-	int y = v[cnt].y;
-	int type = v[cnt].type;
-	if(type == 5){	//방향 1개만 있음
-		dir[cnt] = -1;
-		dfs(cnt+1);
-	}
-	else if(type == 2){	//방향 2개있음
-		for(int i = 0; i < 2; i++){
-			dir[cnt] = i;
-			dfs(cnt+1);
-		}
-	}
-	else{
-		for(int i = 0; i < 4; i++){	
-			dir[cnt] = i;
-			dfs(cnt+1);
-		}
-	}
+	int type = cctv[idx].first;
+	int y = cctv[idx].second.first;
+	int x = cctv[idx].second.second;
 	
+	if (type == 5) {
+		dir[idx] = -1;
+		dfs(idx + 1);
+	}
+	else if (type == 2) {
+		for (int i = 0; i < 2; i++) {
+			dir[idx] = i;
+			dfs(idx + 1);
+		}
+	}
+	else {
+		for (int i = 0; i < 4; i++) {
+			dir[idx] = i;
+			dfs(idx + 1);
+		}
+	}
 }
-int main(){
-	input();
-	
+
+int main() {
+	cin >> n >> m;
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < m; j++) {
+			cin >> map[i][j];
+			c_map[i][j] = map[i][j];
+			if (map[i][j] >= 1 && map[i][j] < 6) {
+				cctv.push_back(make_pair(map[i][j], make_pair(i, j)));
+			}
+		}
+	}
+	dir = vector<int>(cctv.size());
+
 	dfs(0);
 
 	cout << answer;

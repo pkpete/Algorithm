@@ -1,29 +1,35 @@
 #include <iostream>
+#include <algorithm>
 #include <queue>
 using namespace std;
-int visit[100001];
-int main(){
+int arr[100001];
+bool check[100001];
+int main() {
 	int n, k;
 	cin >> n >> k;
-	queue<int> q;
-	q.push(n);
-	while(!q.empty()){
-		int position = q.front();
+	queue<pair<int, int>> q;
+	q.push(make_pair(0, n));
+	
+	while (!q.empty()) {
+		int cnt = q.front().first;
+		int cur = q.front().second;
+		check[cur] = true;
 		q.pop();
-		if(position == k)
-			break;
-		if(position-1>=0 && visit[position-1] == 0){
-			q.push(position-1);
-			visit[position-1] = visit[position] + 1;
+		if (cur == k) {
+			cout << cnt;
+			return 0;
 		}
-		if(position+1<=100000 && visit[position+1] == 0){
-			q.push(position+1);
-			visit[position+1]= visit[position] + 1;
-		}
-		if(position*2 <= 100000 && visit[position*2] == 0){
-			q.push(position*2);
-			visit[position*2]= visit[position] + 1;
-		}
+		int move = cur - 1;
+		if (move >= 0 && move < 100001 && !check[move])
+			q.push(make_pair(cnt + 1, move));
+		
+		move = cur + 1;
+		if (move >= 0 && move < 100001 && !check[move])
+			q.push(make_pair(cnt + 1, move));
+		
+		move = 2 * cur;
+		if (move >= 0 && move < 100001 && !check[move])
+			q.push(make_pair(cnt + 1, move));
 	}
-	cout << visit[k];
+
 }
