@@ -24,8 +24,8 @@
 <summary>Inflearn</summary>
 <div markdown="1">
 
-|Problem|Solution|
-|------|---|
+|Problem|Code|Solution|
+|------|---|------|
 
 </div>
 </details>
@@ -36,8 +36,8 @@
 <summary>알고리즘 문제 해결 전략 / 이것이 코딩 테스트다</summary>
 <div markdown="1">
 
-|Problem|Solution|
-|------|---|
+|Problem|Code|Solution|
+|------|---|------|
 </div>
 </details>
 
@@ -47,5 +47,5 @@
 <summary>Programmers</summary>
 <div markdown="1">
 
-|Problem|Solution|
-|------|---|
+|Problem|Code|Solution|
+|------|---|------|
