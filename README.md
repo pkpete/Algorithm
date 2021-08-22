@@ -15,7 +15,7 @@
 |[2606. 바이러스](https://www.acmicpc.net/problem/2606)|[C++😎](./baekjoon/2606_바이러스.cpp), [Python😁](./baekjoon/2606_바이러스.py)|[2606. 바이러스 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2606.-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4)|
 |[1012. 유기농 배추](https://www.acmicpc.net/problem/1012)|[C++😎](./baekjoon/1012_유기농_배추.cpp)|[1012. 유기농 배추 풀이](https://velog.io/@pkpete/1012.-%EC%9C%A0%EA%B8%B0%EB%86%8D-%EB%B0%B0%EC%B6%94)|
 |[1926. 그림](https://www.acmicpc.net/problem/1926)|[C++😎](./baekjoon/1926_그림.cpp)|[1926. 그림 풀이](https://velog.io/@pkpete/1926.-%EA%B7%B8%EB%A6%BC)|
-|2303. 숫자 게임](https://www.acmicpc.net/problem/2303)|[C++😎](./baekjoon/2303_숫자_게임.cpp)|[2303. 숫자 게임 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2303.-%EC%88%AB%EC%9E%90-%EA%B2%8C%EC%9E%84)|
+|[2303. 숫자 게임](https://www.acmicpc.net/problem/2303)|[C++😎](./baekjoon/2303_숫자_게임.cpp)|[2303. 숫자 게임 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2303.-%EC%88%AB%EC%9E%90-%EA%B2%8C%EC%9E%84)|
 
 
 
