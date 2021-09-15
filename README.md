@@ -63,3 +63,5 @@
 |Problem|Code|Solution|
 |------|---|------|
 |[Weekly 5주차](https://programmers.co.kr/learn/courses/30/lessons/84512)|[C++😎](./programmers/Week5.cpp)|[풀이](https://velog.io/@pkpete/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9C%84%ED%81%B4%EB%A6%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80-5%EC%A3%BC%EC%B0%A8)|
+|[Weekly 6주차](https://programmers.co.kr/learn/courses/30/lessons/85002)|[C++😎](./programmers/Week6.cpp)|[풀이](https://velog.io/@pkpete/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9C%84%ED%81%B4%EB%A6%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80-6%EC%A3%BC%EC%B0%A8)|
+|[Weekly 7주차](https://programmers.co.kr/learn/courses/30/lessons/86048)|[C++😎](./programmers/Week7.cpp)|[풀이](https://velog.io/@pkpete/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9C%84%ED%81%B4%EB%A6%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80-7%EC%A3%BC%EC%B0%A8)|
