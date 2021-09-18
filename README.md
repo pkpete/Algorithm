@@ -52,6 +52,8 @@
 |큰 수의 법칙|[C++😎](./이것이_코딩_테스트다/큰수의법칙.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-1%EC%9D%B4-%EB%90%A0-%EB%95%8C%EA%B9%8C%EC%A7%80)|
 |왕실의 나이트|[C++😎](./이것이_코딩_테스트다/왕실의나이트.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EC%99%95%EC%8B%A4%EC%9D%98-%EB%82%98%EC%9D%B4%ED%8A%B8)|
 |게임 개발|[C++😎](./이것이_코딩_테스트다/게임개발.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C)|
+|[음료수 얼려 먹기]|[C++😎](./이것이_코딩_테스트다/음료수얼려먹기.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EC%9D%8C%EB%A3%8C%EC%88%98-%EC%96%BC%EB%A0%A4-%EB%A8%B9%EA%B8%B0)|
+|[미로 탈출]|[C++😎](./이것이_코딩_테스트다/미로탈출.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EB%AF%B8%EB%A1%9C-%ED%83%88%EC%B6%9C)|
 </div>
 </details>
 
