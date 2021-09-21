@@ -56,7 +56,8 @@
 |미로 탈출|[C++😎](./이것이_코딩_테스트다/미로탈출.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EB%AF%B8%EB%A1%9C-%ED%83%88%EC%B6%9C)|
 |성적이 낮은 순서로 학생 출력하기|[C++😎](./이것이_코딩_테스트다/성적이낮은순서.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EC%84%B1%EC%A0%81%EC%9D%B4-%EB%82%AE%EC%9D%80-%EC%88%9C%EC%84%9C%EB%A1%9C-%ED%95%99%EC%83%9D-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)|
 |두 배열의 원소 교체|[C++😎](./이것이_코딩_테스트다/두배열의원소교체.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EB%91%90-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%9B%90%EC%86%8C-%EA%B5%90%EC%B2%B4)|
-
+|부품 찾기|[C++😎](./이것이_코딩_테스트다/부품찾기.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EB%B6%80%ED%92%88-%EC%B0%BE%EA%B8%B0)|
+|떡볶이 떡 만들기|[C++😎](./이것이_코딩_테스트다/떡만들기.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EB%96%A1%EB%B3%B6%EC%9D%B4-%EB%96%A1-%EB%A7%8C%EB%93%A4%EA%B8%B0)|
 </div>
 </details>
 
