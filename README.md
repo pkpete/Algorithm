@@ -21,9 +21,9 @@
 |[20365. 블로그2](https://www.acmicpc.net/problem/20365)|[C++😎](./baekjoon/20365_블로그2.cpp)|[20365. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-20365.-%EB%B8%94%EB%A1%9C%EA%B7%B82)|
 |[7571. 점 모으기](https://www.acmicpc.net/problem/7571)|[C++😎](./baekjoon/7571_점_모으기.cpp)|[7571. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-7571.-%EC%A0%90-%EB%AA%A8%EC%9C%BC%EA%B8%B0)|
 |[9019. DSLR](https://www.acmicpc.net/problem/9019)|[C++😎](./baekjoon/9019_DSLR.cpp)|[9019. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-9019.-DSLR)|
-|[10971. 외판원 순회2](https://www.acmicpc.net/problem/10971)|[C++😎](./baekjoon/7571_외판원순회2.cpp)|[10971. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-10971.-%EC%99%B8%ED%8C%90%EC%9B%90-%EC%88%9C%ED%9A%8C2)|
-|[12865. 평범한 배낭](https://www.acmicpc.net/problem/12865)|[C++😎](./baekjoon/7571_점_모으기.cpp)|[12865. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-12865.-%ED%8F%89%EB%B2%94%ED%95%9C-%EB%B0%B0%EB%82%AD)|
-|[9251. LCS](https://www.acmicpc.net/problem/9251)|[C++😎](./baekjoon/7571_점_모으기.cpp)|[9251. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-9251.-LCS)|
+|[10971. 외판원 순회2](https://www.acmicpc.net/problem/10971)|[C++😎](./baekjoon/10971_외판원순회2.cpp)|[10971. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-10971.-%EC%99%B8%ED%8C%90%EC%9B%90-%EC%88%9C%ED%9A%8C2)|
+|[12865. 평범한 배낭](https://www.acmicpc.net/problem/12865)|[C++😎](./baekjoon/12865_평범한_배낭.cpp)|[12865. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-12865.-%ED%8F%89%EB%B2%94%ED%95%9C-%EB%B0%B0%EB%82%AD)|
+|[9251. LCS](https://www.acmicpc.net/problem/9251)|[C++😎](./baekjoon/9251_LCS.cpp)|[9251. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-9251.-LCS)|
 
 
 
