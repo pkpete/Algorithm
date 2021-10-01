@@ -10,6 +10,7 @@
 
 |Problem|Code|Solution|
 |------|---|------|
+<!-- |[0000. 문제](https://www.acmicpc.net/problem/0000)|[C++😎](./baekjoon/00000.cpp)|[0000. 풀이]()| -->
 |[2504. 괄호의 값](https://www.acmicpc.net/problem/2504)|[C++😎](./baekjoon/2504_괄호의_값.cpp)|[2504. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2504.-%EA%B4%84%ED%98%B8%EC%9D%98-%EA%B0%92)|
 |[10773. 제로](https://www.acmicpc.net/problem/10773)|[C++😎](./baekjoon/10773_제로.cpp), [Python😁](./baekjoon/10773_제로.py)|[10773. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-10773.-%EC%A0%9C%EB%A1%9C)|
 |[2606. 바이러스](https://www.acmicpc.net/problem/2606)|[C++😎](./baekjoon/2606_바이러스.cpp), [Python😁](./baekjoon/2606_바이러스.py)|[2606. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2606.-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4)|
@@ -24,7 +25,9 @@
 |[10971. 외판원 순회2](https://www.acmicpc.net/problem/10971)|[C++😎](./baekjoon/10971_외판원순회2.cpp)|[10971. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-10971.-%EC%99%B8%ED%8C%90%EC%9B%90-%EC%88%9C%ED%9A%8C2)|
 |[12865. 평범한 배낭](https://www.acmicpc.net/problem/12865)|[C++😎](./baekjoon/12865_평범한_배낭.cpp)|[12865. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-12865.-%ED%8F%89%EB%B2%94%ED%95%9C-%EB%B0%B0%EB%82%AD)|
 |[9251. LCS](https://www.acmicpc.net/problem/9251)|[C++😎](./baekjoon/9251_LCS.cpp)|[9251. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-9251.-LCS)|
-
+|[11659. 구간 합 구하기](https://www.acmicpc.net/problem/11659)|[C++😎](./baekjoon/11659_구간합구하기4.cpp)|[11659. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-11659.-%EA%B5%AC%EA%B0%84-%ED%95%A9-%EA%B5%AC%ED%95%98%EA%B8%B04)|
+|[1463. 1로 만들기](https://www.acmicpc.net/problem/1463)|[C++😎](./baekjoon/1463_1로만들기.cpp)|[1463. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-1463.-1%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)|
+|[11053. 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[C++😎](./baekjoon/11053_가장긴증가하는부분수열.cpp)|[11053. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-11053.-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4)|
 
 
 
