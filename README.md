@@ -7,7 +7,9 @@
 <details open>
 <summary>Baekjoon</summary>
 <div markdown="1">
+  
 <!-- |[0000. 문제](https://www.acmicpc.net/problem/0000)|[C++😎](./baekjoon/00000.cpp)|[0000. 풀이]()| -->
+  
 |Problem|Code|Solution|
 |------|---|------|
 |[2504. 괄호의 값](https://www.acmicpc.net/problem/2504)|[C++😎](./baekjoon/2504_괄호의_값.cpp)|[2504. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2504.-%EA%B4%84%ED%98%B8%EC%9D%98-%EA%B0%92)|
