@@ -8,7 +8,7 @@
 <summary>Baekjoon</summary>
 <div markdown="1">
   
-<!-- |[0000. 문제](https://www.acmicpc.net/problem/0000)|[C++😎](./baekjoon/00000.cpp)|[0000. 풀이]()| -->
+<!-- |[0. 문제](https://www.acmicpc.net/problem/0)|[C++😎](./baekjoon/0.cpp)|[0. 풀이]()| -->
   
 |Problem|Code|Solution|
 |------|---|------|
@@ -29,7 +29,9 @@
 |[11659. 구간 합 구하기](https://www.acmicpc.net/problem/11659)|[C++😎](./baekjoon/11659_구간합구하기4.cpp)|[11659. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-11659.-%EA%B5%AC%EA%B0%84-%ED%95%A9-%EA%B5%AC%ED%95%98%EA%B8%B04)|
 |[1463. 1로 만들기](https://www.acmicpc.net/problem/1463)|[C++😎](./baekjoon/1463_1로만들기.cpp)|[1463. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-1463.-1%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)|
 |[11053. 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[C++😎](./baekjoon/11053_가장긴증가하는부분수열.cpp)|[11053. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-11053.-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4)|
-
+|[14891. 톱니 바퀴](https://www.acmicpc.net/problem/14891)|[C++😎](./baekjoon/14891_톱니바퀴.cpp)|[14891. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-14891.-%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4)|
+|[14501. 퇴사](https://www.acmicpc.net/problem/14501)|[C++😎](./baekjoon/14501_퇴사.cpp)|[14501. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-14501.-%ED%87%B4%EC%82%AC)|
+|[10819. 차이를 최대로](https://www.acmicpc.net/problem/10819)|[C++😎](./baekjoon/10819_차이를최대로.cpp)|[10819. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-10819.-%EC%B0%A8%EC%9D%B4%EB%A5%BC-%EC%B5%9C%EB%8C%80%EB%A1%9C)|
 
 
 
