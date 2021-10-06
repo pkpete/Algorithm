@@ -32,7 +32,9 @@
 |[14891. 톱니 바퀴](https://www.acmicpc.net/problem/14891)|[C++😎](./baekjoon/14891_톱니바퀴.cpp)|[14891. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-14891.-%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4)|
 |[14501. 퇴사](https://www.acmicpc.net/problem/14501)|[C++😎](./baekjoon/14501_퇴사.cpp)|[14501. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-14501.-%ED%87%B4%EC%82%AC)|
 |[10819. 차이를 최대로](https://www.acmicpc.net/problem/10819)|[C++😎](./baekjoon/10819_차이를최대로.cpp)|[10819. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-10819.-%EC%B0%A8%EC%9D%B4%EB%A5%BC-%EC%B5%9C%EB%8C%80%EB%A1%9C)|
-
+|[1753. 최단경로](https://www.acmicpc.net/problem/1753)|[C++😎](./baekjoon/1753_최단경로.cpp)|[1753. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-1753.-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C)|
+|[1991. 트리 순회](https://www.acmicpc.net/problem/1991)|[C++😎](./baekjoon/1991_트리순회.cpp)|[1991. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-1991.-%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C)|
+|[11725. 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[C++😎](./baekjoon/11725_트리의부모찾기.cpp)|[11725. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-11725.-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EB%B6%80%EB%AA%A8-%EC%B0%BE%EA%B8%B0)|
 
 
 </div>
@@ -84,3 +86,4 @@
 |[Weekly 6주차](https://programmers.co.kr/learn/courses/30/lessons/85002)|[C++😎](./programmers/Week6.cpp)|[풀이](https://velog.io/@pkpete/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9C%84%ED%81%B4%EB%A6%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80-6%EC%A3%BC%EC%B0%A8)|
 |[Weekly 7주차](https://programmers.co.kr/learn/courses/30/lessons/86048)|[C++😎](./programmers/Week7.cpp)|[풀이](https://velog.io/@pkpete/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9C%84%ED%81%B4%EB%A6%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80-7%EC%A3%BC%EC%B0%A8)|
 |[Weekly 8주차](https://programmers.co.kr/learn/courses/30/lessons/86491)|[C++😎](./programmers/Week8.cpp)|[풀이](https://velog.io/@pkpete/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9C%84%ED%81%B4%EB%A6%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80-8%EC%A3%BC%EC%B0%A8)|
+|[Weekly 9주차](https://programmers.co.kr/learn/courses/30/lessons/86971)|[C++😎](./programmers/Week9.cpp)|[풀이](https://velog.io/@pkpete/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Week-9)|
