@@ -35,12 +35,13 @@
 |[1753. 최단경로](https://www.acmicpc.net/problem/1753)|[C++😎](./baekjoon/1753_최단경로.cpp)|[1753. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-1753.-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C)|
 |[1991. 트리 순회](https://www.acmicpc.net/problem/1991)|[C++😎](./baekjoon/1991_트리순회.cpp)|[1991. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-1991.-%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C)|
 |[11725. 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[C++😎](./baekjoon/11725_트리의부모찾기.cpp)|[11725. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-11725.-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EB%B6%80%EB%AA%A8-%EC%B0%BE%EA%B8%B0)|
-|[2075. 문제](https://www.acmicpc.net/problem/2075)|[C++😎](./baekjoon/2075_N번째_큰_수.cpp)|[2075. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2075.-N%EB%B2%88%EC%A7%B8-%ED%81%B0-%EC%88%98)|
+|[2075. N번째 큰 수](https://www.acmicpc.net/problem/2075)|[C++😎](./baekjoon/2075_N번째_큰_수.cpp)|[2075. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2075.-N%EB%B2%88%EC%A7%B8-%ED%81%B0-%EC%88%98)|
 |[2865. 나는 위대한 슈퍼스타K](https://www.acmicpc.net/problem/2865)|[C++😎](./baekjoon/2865_나는_위대한_슈퍼스타K.cpp)|[2865. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2865.-%EB%82%98%EB%8A%94-%EC%9C%84%EB%8C%80%ED%95%9C-%EC%8A%88%ED%8D%BC%EC%8A%A4%ED%83%80K)|
 |[2891. 카약과 강풍](https://www.acmicpc.net/problem/2891)|[C++😎](./baekjoon/2891_카약과_강풍.cpp)|[2891. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2891.-%EC%B9%B4%EC%95%BD%EA%B3%BC-%EA%B0%95%ED%92%8D)|
 |[5747. Odd or Even](https://www.acmicpc.net/problem/5747)|[C++😎](./baekjoon/5747_Odd_or_Even.cpp)|[5747. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-5747.-Odd-or-Even)|
 |[13458. 시험 감독](https://www.acmicpc.net/problem/13458)|[C++😎](./baekjoon/13458_시험감독.cpp)|[13458. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-13458.-%EC%8B%9C%ED%97%98-%EA%B0%90%EB%8F%85)|
-
+|[2343. 기타 레슨](https://www.acmicpc.net/problem/2343)|[C++😎](./baekjoon/2343_기타레슨.cpp)|[2343. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2343.-%EA%B8%B0%ED%83%80-%EB%A0%88%EC%8A%A8)|
+|[2470. 두 용액](https://www.acmicpc.net/problem/2470)|[C++😎](./baekjoon/2470_두_용액.cpp)|[2470. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2470.-%EB%91%90-%EC%9A%A9%EC%95%A1)|
 </div>
 </details>
 
