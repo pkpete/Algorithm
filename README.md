@@ -42,6 +42,7 @@
 |[13458. 시험 감독](https://www.acmicpc.net/problem/13458)|[C++😎](./baekjoon/13458_시험감독.cpp)|[13458. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-13458.-%EC%8B%9C%ED%97%98-%EA%B0%90%EB%8F%85)|
 |[2343. 기타 레슨](https://www.acmicpc.net/problem/2343)|[C++😎](./baekjoon/2343_기타레슨.cpp)|[2343. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2343.-%EA%B8%B0%ED%83%80-%EB%A0%88%EC%8A%A8)|
 |[2470. 두 용액](https://www.acmicpc.net/problem/2470)|[C++😎](./baekjoon/2470_두_용액.cpp)|[2470. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2470.-%EB%91%90-%EC%9A%A9%EC%95%A1)|
+|[5427. 불](https://www.acmicpc.net/problem/5427)|[C++😎](./baekjoon/5427_불.cpp)|[5427. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-5427.-%EB%B6%88)|
 </div>
 </details>
 
