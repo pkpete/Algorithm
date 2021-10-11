@@ -43,6 +43,9 @@
 |[2343. 기타 레슨](https://www.acmicpc.net/problem/2343)|[C++😎](./baekjoon/2343_기타레슨.cpp)|[2343. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2343.-%EA%B8%B0%ED%83%80-%EB%A0%88%EC%8A%A8)|
 |[2470. 두 용액](https://www.acmicpc.net/problem/2470)|[C++😎](./baekjoon/2470_두_용액.cpp)|[2470. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2470.-%EB%91%90-%EC%9A%A9%EC%95%A1)|
 |[5427. 불](https://www.acmicpc.net/problem/5427)|[C++😎](./baekjoon/5427_불.cpp)|[5427. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-5427.-%EB%B6%88)|
+|[5014. 스타트링크](https://www.acmicpc.net/problem/5014)|[C++😎](./baekjoon/5014_스타트링크.cpp)|[5014. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-5014-%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC)|
+|[4963. 섬의 개수](https://www.acmicpc.net/problem/4963)|[C++😎](./baekjoon/4963_섬의개수.cpp)|[4963. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-4963.-%EC%84%AC%EC%9D%98-%EA%B0%9C%EC%88%98)|
+|[2468. 안전영역](https://www.acmicpc.net/problem/2468)|[C++😎](./baekjoon/2468_안전영역.cpp)|[2468. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2468.-%EC%95%88%EC%A0%84-%EC%98%81%EC%97%AD)|
 </div>
 </details>
 
