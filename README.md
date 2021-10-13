@@ -81,6 +81,10 @@
 |두 배열의 원소 교체|[C++😎](./이것이_코딩_테스트다/두배열의원소교체.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EB%91%90-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%9B%90%EC%86%8C-%EA%B5%90%EC%B2%B4)|
 |부품 찾기|[C++😎](./이것이_코딩_테스트다/부품찾기.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EB%B6%80%ED%92%88-%EC%B0%BE%EA%B8%B0)|
 |떡볶이 떡 만들기|[C++😎](./이것이_코딩_테스트다/떡만들기.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EB%96%A1%EB%B3%B6%EC%9D%B4-%EB%96%A1-%EB%A7%8C%EB%93%A4%EA%B8%B0)|
+|바닥 공사|[C++😎](./이것이_코딩_테스트다/바닥공사.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EB%B0%94%EB%8B%A5-%EA%B3%B5%EC%82%AC)|
+|개미 전사|[C++😎](./이것이_코딩_테스트다/개미전사.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EA%B0%9C%EB%AF%B8-%EC%A0%84%EC%82%AC)|
+|1로 만들기|[C++😎](./이것이_코딩_테스트다/1로만들기.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-1%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)|
+|효율적인 화폐 구성|[C++😎](./이것이_코딩_테스트다/효율적인화폐구성.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%99%94%ED%8F%90-%EA%B5%AC%EC%84%B1)|
 </div>
 </details>
 
