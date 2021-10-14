@@ -86,6 +86,7 @@
 |1로 만들기|[C++😎](./이것이_코딩_테스트다/1로만들기.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-1%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)|
 |효율적인 화폐 구성|[C++😎](./이것이_코딩_테스트다/효율적인화폐구성.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%99%94%ED%8F%90-%EA%B5%AC%EC%84%B1)|
 |미래 도시|[C++😎](./이것이_코딩_테스트다/미래도시.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EB%AF%B8%EB%9E%98-%EB%8F%84%EC%8B%9C)|
+|전보|[C++😎](./이것이_코딩_테스트다/전보.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EC%A0%84%EB%B3%B4)|
 
 
 </div>
