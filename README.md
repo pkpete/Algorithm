@@ -87,6 +87,10 @@
 |효율적인 화폐 구성|[C++😎](./이것이_코딩_테스트다/효율적인화폐구성.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%99%94%ED%8F%90-%EA%B5%AC%EC%84%B1)|
 |미래 도시|[C++😎](./이것이_코딩_테스트다/미래도시.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EB%AF%B8%EB%9E%98-%EB%8F%84%EC%8B%9C)|
 |전보|[C++😎](./이것이_코딩_테스트다/전보.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EC%A0%84%EB%B3%B4)|
+|팀 결성|[C++😎](./이것이_코딩_테스트다/팀결성.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%ED%8C%80-%EA%B2%B0%EC%84%B1)|
+|도시 분할 계획|[C++😎](./이것이_코딩_테스트다/도시분할계획.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EB%8F%84%EC%8B%9C-%EB%B6%84%ED%95%A0-%EA%B3%84%ED%9A%8D)|
+|커리큘럼|[C++😎](./이것이_코딩_테스트다/커리큘럼.cpp)|[풀이](https://velog.io/@pkpete/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC)|
+
 
 
 </div>
