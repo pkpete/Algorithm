@@ -47,6 +47,8 @@
 |[4963. 섬의 개수](https://www.acmicpc.net/problem/4963)|[C++😎](./baekjoon/4963_섬의개수.cpp)|[4963. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-4963.-%EC%84%AC%EC%9D%98-%EA%B0%9C%EC%88%98)|
 |[2468. 안전영역](https://www.acmicpc.net/problem/2468)|[C++😎](./baekjoon/2468_안전영역.cpp)|[2468. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2468.-%EC%95%88%EC%A0%84-%EC%98%81%EC%97%AD)|
 |[11724. 문제](https://www.acmicpc.net/problem/11724)|[C++😎](./baekjoon/11724_연결요소의개수.cpp)|[11724. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-11724.-%EC%97%B0%EA%B2%B0-%EC%9A%94%EC%86%8C%EC%9D%98-%EA%B0%9C%EC%88%98)|
+|[2003. 수들의 합 2](https://www.acmicpc.net/problem/2003)|[C++😎](./baekjoon/2003_수들의합.cpp)|[2003. 풀이](https://velog.io/@pkpete/%EB%B0%B1%EC%A4%80-2003.-%EC%88%98%EB%93%A4%EC%9D%98-%ED%95%A92)|
+
 </div>
 </details>
 
